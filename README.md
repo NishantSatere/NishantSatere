@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsatere&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsatere" /> </p>
 
-- 🌱 I’m currently learning **Machine Learing**
+- 🌱 I’m currently learning **Machine Learing and AI**
 
 - 💬 Ask me about **ReactJS , NextJS , NodeJS**
 
