@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learing**
 
-- 💬 Ask me about **ReactJS , NextJS , NodeJS**
+- 💬 Ask me about **ReactJS , Go , NodeJS**
 
 - 📫 How to reach me **nishantd28satere@gmail.com**
 
